@@ -1,0 +1,6 @@
+-   id: snyk-audit
+    name: snyk-audit
+    description: Audit javascript library with Snyk.
+    entry: snyk-audit.sh
+    files: (src|lambda)/*
+    language: script
