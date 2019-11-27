@@ -2,4 +2,5 @@
     name: snyk-audit
     description: Audit javascript library with Snyk.
     entry: snyk-audit.sh
+    file: src/dummy/package.json
     language: script

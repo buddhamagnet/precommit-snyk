@@ -2,4 +2,4 @@
 
 set -e
 
-snyk test "(src|lambda)/*"
+$(snyk test
