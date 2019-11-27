@@ -2,4 +2,4 @@
 
 set -e
 
-$(snyk test
+snyk test
